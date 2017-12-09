@@ -7,6 +7,13 @@ Projekt w git
     git status
     python ...
 
+## Deploy
+komponnt jest instalowany na...
+
+```
+komenta
+```    
+
 ## najcześciej wykorzystywane komendy
 1. Sprawdź WEB UI
 ```
