@@ -8,11 +8,13 @@ Projekt w git
     python ...
 
 ## Deploy
-komponnt jest instalowany na...
+1. komponnt jest instalowany na...
 
 ```
 komenta
 ```    
+2. modyfikacja 2
+
 
 ## najcześciej wykorzystywane komendy
 1. Sprawdź WEB UI
